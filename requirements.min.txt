@@ -23,4 +23,4 @@ six==1.15.0
 websockets==8.1
 yarl==1.4.2
 yNaCl = "^1.4.0"
-youtube-dl = "^2021.3.3" 
+
